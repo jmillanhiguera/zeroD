@@ -1,0 +1,10 @@
+include electroMagneticsControls/emcModels/emcModels.dep
+include electroMagneticsControls/emcModels/newEmcModels.dep
+include electroMagneticsControls/voltageControl/voltageControl.dep
+include electroMagneticsControls/powerControl/powerControl.dep
+include electroMagneticsControls/none/none.dep
+include powerSourceZeroD/powerSourceZeroDs/powerSourceZeroDs.dep
+include powerSourceZeroD/powerSourceZeroDs/newPowerSourceZeroDs.dep
+include powerSourceZeroD/voltage/ZeroDVoltage.dep
+include regionProperties/regionProperties.dep
+include plasmaSimFoam.dep

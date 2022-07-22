@@ -1,0 +1,11 @@
+LOCAL_OBJECTS = \
+emcModels.o\
+newEmcModels.o\
+voltageControl.o\
+powerControl.o\
+none.o\
+powerSourceZeroDs.o\
+newPowerSourceZeroDs.o\
+ZeroDVoltage.o\
+regionProperties.o\
+plasmaSimFoam.o

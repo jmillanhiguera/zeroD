@@ -1,0 +1,11 @@
+SOURCE = \
+electroMagneticsControls/emcModels/emcModels.C\
+electroMagneticsControls/emcModels/newEmcModels.C\
+electroMagneticsControls/voltageControl/voltageControl.C\
+electroMagneticsControls/powerControl/powerControl.C\
+electroMagneticsControls/none/none.C\
+powerSourceZeroD/powerSourceZeroDs/powerSourceZeroDs.C\
+powerSourceZeroD/powerSourceZeroDs/newPowerSourceZeroDs.C\
+powerSourceZeroD/voltage/ZeroDVoltage.C\
+regionProperties/regionProperties.C\
+plasmaSimFoam.C

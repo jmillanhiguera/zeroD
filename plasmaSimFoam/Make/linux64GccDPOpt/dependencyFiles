@@ -1,0 +1,11 @@
+DEPENDENCIES = \
+electroMagneticsControls/emcModels/emcModels.dep\
+electroMagneticsControls/emcModels/newEmcModels.dep\
+electroMagneticsControls/voltageControl/voltageControl.dep\
+electroMagneticsControls/powerControl/powerControl.dep\
+electroMagneticsControls/none/none.dep\
+powerSourceZeroD/powerSourceZeroDs/powerSourceZeroDs.dep\
+powerSourceZeroD/powerSourceZeroDs/newPowerSourceZeroDs.dep\
+powerSourceZeroD/voltage/ZeroDVoltage.dep\
+regionProperties/regionProperties.dep\
+plasmaSimFoam.dep
